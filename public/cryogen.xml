@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
 <channel>
-<atom:link href='http://wilkes.github.io/' rel='self' type='application/rss+xml'/>
+<atom:link href='https://wilkes.github.io/' rel='self' type='application/rss+xml'/>
 <title>
 wilkes
 </title>
 <link>
-http://wilkes.github.io/
+https://wilkes.github.io/
 </link>
 <description>
 This blog is
 </description>
 <lastBuildDate>
-Sat, 16 Dec 2017 10:46:38 -0600
+Sat, 16 Dec 2017 10:48:06 -0600
 </lastBuildDate>
 <generator>
 clj-rss
 </generator>
 <item>
 <guid>
-http://wilkes.github.io/posts-output/2016-01-07-docs/
+https://wilkes.github.io/posts-output/2016-01-07-docs/
 </guid>
 <link>
-http://wilkes.github.io/posts-output/2016-01-07-docs/
+https://wilkes.github.io/posts-output/2016-01-07-docs/
 </link>
 <title>
 Quick Start Guide

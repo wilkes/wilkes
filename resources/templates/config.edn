@@ -1,7 +1,7 @@
 {:site-title           "wilkes"
  :author               "wilkes"
  :description          "This blog is"
- :site-url             "http://wilkes.github.io/"
+ :site-url             "https://wilkes.github.io/"
  :post-root            "posts"
  :page-root            "pages"
  :post-root-uri        "posts-output"
