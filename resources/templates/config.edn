@@ -1,14 +1,14 @@
-{:site-title           "My Awesome Blog"
- :author               "Bob Bobbert"
- :description          "This blog is awesome"
- :site-url             "http://blogawesome.com/"
+{:site-title           "wilkes"
+ :author               "wilkes"
+ :description          "This blog is"
+ :site-url             "http://wilkes.github.io/"
  :post-root            "posts"
  :page-root            "pages"
  :post-root-uri        "posts-output"
  :page-root-uri        "pages-output"
  :tag-root-uri         "tags-output"
  :author-root-uri      "authors-output"
- :blog-prefix          "/blog"
+ :blog-prefix          ""
  :rss-name             "feed.xml"
  :rss-filters          ["cryogen"]
  :recent-posts         3
@@ -17,7 +17,7 @@
  :sass-src             []
  :sass-path            "sass"
  :compass-path         "compass"
- :theme                "blue"
+ :theme                "lotus"
  :resources            ["img"]
  :keep-files           [".git"]
  :disqus?              false
